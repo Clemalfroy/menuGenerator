@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Tarte a la raviolle",
+        "fitness": 6
+    },
+    {
+        "name": "Salade verte fromage de chevre jambon oeuf",
+        "fitness": 4
+    },
+    {
+        "name": "Omelette salade",
+        "fitness": 3
+    },
+    {
+        "name": "Salade de riz, thon, tomates",
+        "fitness": 3
+    },
+    {
+        "name": "Pomme de terre / carrotte / poulet",
+        "fitness": 5
+    },
+    {
+        "name": "Patte carbonara",
+        "fitness": 7
+    },
+    {
+        "name": "Pizza",
+        "fitness": 7
+    },
+    {
+        "name": "Lasagne",
+        "fitness": 6
+    },
+    {
+        "name": "Riz / carrotte / poulet",
+        "fitness": 5
+    }
+]
